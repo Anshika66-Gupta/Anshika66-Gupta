@@ -1,3 +1,4 @@
+<image src="code.png">
 ### Hola I'm Anshika Gupta👋
 - 🔭 I’m currently working on Javascript and Blogging on technology;
 - 🌱 I’m currently learning Node.j.s;
