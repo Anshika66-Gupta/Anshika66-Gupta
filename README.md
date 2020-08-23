@@ -1,6 +1,5 @@
-<div align="left">
-  <img src="code.png" width="350" height="150" title="hover text">
-</div>
+
+  <img src="code.png" width="350" height="150">
 ### Hola I'm Anshika Gupta👋
 - 🔭 I’m currently working on Javascript and Blogging on technology;
 - 🌱 I’m currently learning Node.j.s;
