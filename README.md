@@ -1,5 +1,5 @@
 ### Hola I'm Anshika Gupta👋
-<a href="https://sourcerer.io/Anshika66-Gupta"><img src="coding.gif"></a>
+<a href="https://sourcerer.io/Anshika66-Gupta"><img src="https://images.app.goo.gl/JVQJUQE8tWYcxzfv6"></a>
 
 - 🔭 I’m currently working on Javascript and Blogging on technology;
 - 🌱 I’m currently learning Node.j.s;
