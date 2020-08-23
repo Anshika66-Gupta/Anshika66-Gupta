@@ -1,6 +1,3 @@
-<p align="left">
-  <img src="code.png" width="250">
-</p>
 ### Hola I'm Anshika Gupta👋
 - 🔭 I’m currently working on Javascript and Blogging on technology;
 - 🌱 I’m currently learning Node.j.s;
