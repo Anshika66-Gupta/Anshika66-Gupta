@@ -1,5 +1,5 @@
 ### Hola I'm Anshika Gupta👋
-https://images.app.goo.gl/TH3hVK4Hm7arLRoU9
+<image src="https://images.app.goo.gl/TH3hVK4Hm7arLRoU9">
 
 - 🔭 I’m currently working on Javascript and Blogging on technology;
 - 🌱 I’m currently learning Node.j.s;
