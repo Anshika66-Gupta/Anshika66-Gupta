@@ -1,6 +1,7 @@
+<p align="right">
+  <img src="code.png" width="350" title="hover text">
+</p>
 ### Hola I'm Anshika Gupta👋
-![github small](https://images.app.goo.gl/MuHfQxP9kMWhU8nU9)
-
 - 🔭 I’m currently working on Javascript and Blogging on technology;
 - 🌱 I’m currently learning Node.j.s;
 - 👯 I’m looking to collaborate on Python libraries;
