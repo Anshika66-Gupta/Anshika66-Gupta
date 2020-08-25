@@ -1,5 +1,4 @@
 ### Hola I'm Anshika Gupta👋
-<img src="coding.gif">
 - 🔭 I’m currently working on Javascript and Blogging on technology;
 - 🌱 I’m currently learning Node.j.s;
 - 👯 I’m looking to collaborate on Python libraries;
@@ -11,3 +10,5 @@
 
 <img src="https://github-readme-stat.vercel.app/api?username=Anshika66-Gupta&&show_icons-true&title_color=#ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919
 ">
+
+<img src="coding.gif">
