@@ -1,4 +1,5 @@
 ### Hola I'm Anshika Gupta👋
+<img src="coding.gif">
 - 🔭 I’m currently working on Javascript and Blogging on technology;
 - 🌱 I’m currently learning Node.j.s;
 - 👯 I’m looking to collaborate on Python libraries;
