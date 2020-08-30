@@ -8,7 +8,6 @@
 - 😄 Pronouns: Coder, Leader and Optimism;
 - ⚡ Fun fact: Love to ride bicycle on highway🚴;
 
-<img src="https://github-readme-stat.vercel.app/api?username=Anshika66-Gupta&&show_icons-true&title_color=#ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919
-">
+<img src="https://github-readme-stat.vercel.app/api?username=Anshika66-Gupta&&show_icons-true&title_color=#ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
-<img src="coding.gif">
+
