@@ -16,6 +16,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-AnshikaGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshika-gupta-36711419b/)](https://www.linkedin.com/in/anshika-gupta-36711419b/) [![Twitter Badge](https://img.shields.io/badge/-@Anshika_Gupta-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Anshika_Gupta)](https://twitter.com/Anshika_Gupta)  [![Instagram Badge](https://img.shields.io/badge/-@AnshikaGupta-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/anshikagupta4324/)](https://www.instagram.com/anshikagupta4324/)
 
 
-<img src="https://github-readme-stat.vercel.app/api?username=Anshika66-Gupta&&show_icons-true&title_color=#ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img align="left" alt="Anshika66-Gupta Github Stats" src="https://github-readme-stats.vercel.app/api?username=Anshika66-Gupta&show_icons=true&hide_border=true" /> 
+
 
 
