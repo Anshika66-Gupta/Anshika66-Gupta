@@ -6,12 +6,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-AnshikaGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshika-gupta-36711419b/)](https://www.linkedin.com/in/anshika-gupta-36711419b/) [![Twitter Badge](https://img.shields.io/badge/-@Anshika_Gupta-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ANSHIKA71688056)](https://twitter.com/ANSHIKA71688056)  [![Instagram Badge](https://img.shields.io/badge/-@AnshikaGupta-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/anshikagupta4324/)](https://www.instagram.com/anshikagupta4324/)
 
 - 🔭 I’m currently working on Javascript and Blogging on technology;
-- 🌱 I’m currently learning Node.j.s;
+- 🌱 I’m currently learning Flutter;
 - 👯 I’m looking to collaborate on Python libraries;
 - 🤔 I’m looking for help with Web Development skills;
 - 💬 Ask me about Web development or any tech related stuff;
 - 😄 Pronouns: Coder, Leader and Optimism;
-- ⚡ Fun fact: Love to ride bicycle on highway🚴;
+- ⚡ Fun fact: To eat Ice-cream with Gulab Jammun;
 - 📫 How to reach me: ansgupta.01@gmail.com
 
 **Languages and Tools:**  
