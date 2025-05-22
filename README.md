@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anshika Gupta</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="250">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="320" height="250" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
 </p>
+
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-AnshikaGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshika-gupta-36711419b/)](https://www.linkedin.com/in/anshika-gupta-36711419b/) [![Twitter Badge](https://img.shields.io/badge/-@Anshika_Gupta-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ANSHIKA71688056)](https://twitter.com/ANSHIKA71688056)  [![Instagram Badge](https://img.shields.io/badge/-@AnshikaGupta-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/anshikagupta4324/)](https://www.instagram.com/anshikagupta4324/)
