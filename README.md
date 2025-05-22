@@ -1,4 +1,5 @@
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px">&nbsp;***Heya I'm Anshika Gupta 👋***
+<h1 align="center">Hi 👋, I'm Anshika Gupta</h1>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px">&nbsp;
 
 <br>
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
