@@ -6,7 +6,22 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-AnshikaGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshika-gupta-36711419b/)](https://www.linkedin.com/in/anshika-gupta-36711419b/) [![Twitter Badge](https://img.shields.io/badge/-@Anshika_Gupta-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ANSHIKA71688056)](https://twitter.com/ANSHIKA71688056)  [![Instagram Badge](https://img.shields.io/badge/-@AnshikaGupta-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/anshikagupta4324/)](https://www.instagram.com/anshikagupta4324/)
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/anshika-gupta-36711419b/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="https://twitter.com/ANSHIKA71688056" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  
+  <a href="https://www.instagram.com/anshikagupta4324/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-D7008A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+
+</div>
+
 
 - 🔭 I’m currently working on **E-GAN (Evolutionary Generative Adversarial Networks)**
 
