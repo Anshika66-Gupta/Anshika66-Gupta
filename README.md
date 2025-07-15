@@ -67,9 +67,3 @@
 <p align="center" ><img align="center"  height="159" src="https://github-readme-streak-stats.herokuapp.com/?user=Anshika66-Gupta&show_icons=true&locale=en&theme=radical" alt="Anshika66-Gupta" /></p>
 
 
-
-<div align="center">
-  <!-- Contribution Heatmap with Snake Animation -->
-  <img src="https://raw.githubusercontent.com/Anshika66-Gupta/Anshika66-Gupta/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
