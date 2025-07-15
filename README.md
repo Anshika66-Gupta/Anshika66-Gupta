@@ -65,8 +65,11 @@
 </p>
 <br>
 <p align="center" ><img align="center"  height="159" src="https://github-readme-streak-stats.herokuapp.com/?user=Anshika66-Gupta&show_icons=true&locale=en&theme=radical" alt="Anshika66-Gupta" /></p>
+
+
+
 <div align="center">
     <!-- Contribution Heatmap with Snake Animation -->
-    <img src="https://github.com/Anshika66-Gupta/Anshika66-Gupta/blob/main/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
-    <img src="https://github.com/Anshika66-Gupta/Anshika66-Gupta/blob/main/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">  
+    <img src="https://github.com/Anshika66-Gupta/blob/main/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
+    <img src="https://github.com/Anshika66-Gupta/blob/main/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">  
 </div>
